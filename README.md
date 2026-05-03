@@ -58,7 +58,7 @@
   </picture>
 </div>
 
-> ⚠️ Snake needs the GitHub Actions workflow (`snake.yml`) to run once — then it auto-updates daily.
+
 
 ---
 
